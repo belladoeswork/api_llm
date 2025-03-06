@@ -3,3 +3,7 @@ uvicorn
 ollama
 python-dotenv
 requests
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+
